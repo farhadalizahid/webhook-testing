@@ -1,0 +1,21 @@
+# Secrets
+.env
+*.env
+secrets/
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+_pycache_/
+*.pyc
+
+# Logs
+*.log
+logs/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
